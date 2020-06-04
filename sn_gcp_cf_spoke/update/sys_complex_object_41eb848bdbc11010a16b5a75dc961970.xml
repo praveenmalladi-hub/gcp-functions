@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD8deb848b17c110108299374f26a3076f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7314e8c2dbc11010a16b5a75dc961900</scope_name>
+        <serialized_content>{"FlowDesigner:FD8deb848b17c110108299374f26a3076f":{},"FlowDesigner:FD8deb848b17c110108299374f26a3076f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Function\",\"mandatory\":\"false\",\"uiUniqueId\":\"ce865fe9-f9cd-4b17-b1da-f27ea5b99d83\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD8deb848b17c110108299374f26a3076f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"8c3fef2f-35d3-4cbb-8b77-9a630867441b\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 08:46:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41eb848bdbc11010a16b5a75dc961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD8deb848b17c110108299374f26a3076f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_complex_object_41eb848bdbc11010a16b5a75dc961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 08:46:08</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

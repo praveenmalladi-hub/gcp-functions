@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD75710c0398c110103e257a2e5dc5a6ad</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7314e8c2dbc11010a16b5a75dc961900</scope_name>
+        <serialized_content>{"FlowDesigner:FD75710c0398c110103e257a2e5dc5a6ad":{},"FlowDesigner:FD75710c0398c110103e257a2e5dc5a6ad.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Operation\",\"mandatory\":\"true\",\"uiUniqueId\":\"6ca4ad29-c7eb-4977-9648-392678d0f5b6\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD75710c0398c110103e257a2e5dc5a6ad\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 08:00:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39710c03dbc11010a16b5a75dc9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD75710c0398c110103e257a2e5dc5a6ad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_complex_object_39710c03dbc11010a16b5a75dc9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 08:00:34</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD31933d6f080110108d8bdcfb1b2808af</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7314e8c2dbc11010a16b5a75dc961900</scope_name>
+        <serialized_content>{"FlowDesigner:FD31933d6f080110108d8bdcfb1b2808af":{"uploadUrl":"String","uploadUrl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Upload URL\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD31933d6f080110108d8bdcfb1b2808af.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Upload URL\",\"mandatory\":\"false\",\"uiUniqueId\":\"afef1745-aed3-43be-816e-58ce77acf9d6\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD31933d6f080110108d8bdcfb1b2808af\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 05:36:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f1933d6fdb011010a16b5a75dc9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD31933d6f080110108d8bdcfb1b2808af</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_complex_object_f1933d6fdb011010a16b5a75dc9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 05:36:10</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
