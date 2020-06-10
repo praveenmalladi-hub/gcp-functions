@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDa722555873111810947bfd1b53165174</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7314e8c2dbc11010a16b5a75dc961900</scope_name>
+        <serialized_content>{"FlowDesigner:FDa722555873111810947bfd1b53165174":{"downloadUrl":"String","downloadUrl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Download URL\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"729b9e6a-a7fe-44f7-a83a-13841de04ed7\"}"}},"FlowDesigner:FDa722555873111810947bfd1b53165174.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"7b2aaae4-8544-43cc-bd4d-3540653c2558\",\"default_value\":\"\",\"label\":\"URL\",\"mandatory\":\"false\",\"uiUniqueId\":\"f4b92ac6-0195-4a3a-a169-76a455ab0c88\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDa722555873111810947bfd1b53165174\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"7341bcc3-948c-44ac-bf63-5b253cce40a4\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 11:05:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b2255581b11181015dfdce7cc4bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDa722555873111810947bfd1b53165174</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_complex_object_6b2255581b11181015dfdce7cc4bcb74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 11:05:37</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

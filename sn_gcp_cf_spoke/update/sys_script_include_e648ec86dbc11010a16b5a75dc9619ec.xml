@@ -40,19 +40,47 @@ GoogleCloudFunctionsUtils.prototype = {
         return outputs;
     },
 
+	setIAMPolicy: function(inputs, outputs) {
+    var policy = {
+        'policy': {
+            "bindings": []
+        }
+    };
+    inputs["policy"]["bindings"].forEach(function(binding) {
+        var bindingObject = {
+            "role": '',
+            "members": []
+        };
+        if (binding['role'].trim())
+            bindingObject['role'] = binding['role'].trim();
+        if (binding["members"].length > 0) {
+            binding["members"].forEach(function(member) {
+                if (member.trim())
+                    bindingObject['members'].push(member.trim());
+            });
+        }
+        if (bindingObject['role'] && bindingObject['members'].length > 0)
+            policy["policy"]["bindings"].push(bindingObject);
+    });
+    if (policy["policy"]["bindings"].length < 1)
+        throw new Error('Role and memebers should not be an empty.');
+    outputs.policy = JSON.stringify(policy);
+    return outputs.policy;
+},
+	
     type: 'GoogleCloudFunctionsUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-29 08:17:32</sys_created_on>
         <sys_id>e648ec86dbc11010a16b5a75dc9619ec</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>GoogleCloudFunctionsUtils</sys_name>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name>sys_script_include_e648ec86dbc11010a16b5a75dc9619ec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-29 09:22:16</sys_updated_on>
+        <sys_updated_on>2020-06-04 11:02:15</sys_updated_on>
     </sys_script_include>
 </record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="vpcconnectoregresssettings" table="var__m_sys_hub_action_input_43991c5d1bdd581015dfdce7cc4bcb41" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnectoregresssettings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- None --</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_43991c5d1bdd581015dfdce7cc4bcb41</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 11:31:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>765e31ad1bd9981015dfdce7cc4bcb27</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-09 11:31:19</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnectoregresssettings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Private ranges only</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_43991c5d1bdd581015dfdce7cc4bcb41</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 05:16:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f288e0a5db951c10e10c2efd0b9619fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-09 11:31:02</sys_updated_on>
+            <value>PRIVATE_RANGES_ONLY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnectoregresssettings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All traffic</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_43991c5d1bdd581015dfdce7cc4bcb41</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 05:16:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be88e0a5db951c10e10c2efd0b9619fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-09 11:31:02</sys_updated_on>
+            <value>ALL_TRAFFIC</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>vpcconnectoregresssettings</element>
+            <name>var__m_sys_hub_action_input_43991c5d1bdd581015dfdce7cc4bcb41</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 11:31:02</sys_created_on>
+            <sys_id>be5e31ad1bd9981015dfdce7cc4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-09 11:31:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -14,9 +14,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ec6fe98bdb091010a16b5a75dc961996</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-01 16:00:49</sys_updated_on>
+            <sys_updated_on>2020-06-05 08:07:37</sys_updated_on>
             <value/>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -65,11 +65,11 @@
             <sys_created_on>2020-06-04 04:40:15</sys_created_on>
             <sys_id>e06072771b81d41015dfdce7cc4bcbed</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>status</sys_name>
+            <sys_name/>
             <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
             <sys_policy/>
             <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
-            <sys_update_name>sys_choice_var__m_sys_hub_action_output_a75fa98bdb091010a16b5a75dc9619a7_status</sys_update_name>
+            <sys_update_name/>
             <sys_updated_by>praveen.malladi@snc</sys_updated_by>
             <sys_updated_on>2020-06-04 04:40:15</sys_updated_on>
         </sys_choice_set>
