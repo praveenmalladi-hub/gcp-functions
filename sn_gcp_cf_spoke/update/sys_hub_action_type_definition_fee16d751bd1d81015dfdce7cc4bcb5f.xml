@@ -13,7 +13,7 @@
         <ih_action>true</ih_action>
         <internal_name>patch_function_for_http</internal_name>
         <label_cache>[{"name":"{{action.name}}","label":"action➛Name","type":"action","ref":""},{"name":"{{action.memory}}","label":"action➛Memory","type":"action","ref":""},{"name":"{{action.memory_allocated}}","label":"action➛Memory Allocated","type":"action","ref":""},{"name":"{{action.availablememorymb}}","label":"action➛Memory Allocated","type":"action","ref":""},{"name":"{{action._}}","label":"action➛","type":"action","ref":""},{"name":"{{action.runtime}}","label":"action➛Runtime","type":"action","ref":""},{"name":"{{action.source_archive_url}}","label":"action➛Source Archive URL","type":"action","ref":""},{"name":"{{action.sourcearchiveurl}}","label":"action➛Source Archive URL","type":"action","ref":""},{"name":"{{action.timeout}}","label":"action➛Timeout","type":"action","ref":""},{"name":"{{action.serviceaccountemail}}","label":"action➛Service Account Email","type":"action","ref":""},{"name":"{{action.serviceaccountemail.Service_Account_Email}}","label":"action➛Service Account Email➛Service Account Email","type":"action","ref":""},{"name":"{{action.serviceaccountemail.serviceAccountEmail}}","label":"action➛Service Account Email➛Service Account Email","type":"action","ref":""},{"name":"{{action.serviceaccountemail.Service_Account}}","label":"action➛Service Account Email➛Service Account","type":"action","ref":""},{"name":"{{action.serviceaccountemail.serviceAccount}}","label":"action➛Service Account Email➛Service Account","type":"action","ref":""},{"name":"{{action.location}}","label":"action➛Location","type":"action","ref":""},{"name":"{{action.entry_point}}","label":"action➛Entry Point","type":"action","ref":""},{"name":"{{action.entrypoint}}","label":"action➛Entry Point","type":"action","ref":""},{"name":"{{action.labels}}","label":"action➛Labels","type":"action","ref":""},{"name":"{{action.labels.Label}}","label":"action➛Labels➛Label","type":"action","ref":""},{"name":"{{action.labels.label}}","label":"action➛Labels➛Label","type":"action","ref":""},{"name":"{{action.labels.label.Key}}","label":"action➛Labels➛Label➛Key","type":"action","ref":""},{"name":"{{action.labels.label.key}}","label":"action➛Labels➛Label➛Key","type":"action","ref":""},{"name":"{{action.labels.label.Value}}","label":"action➛Labels➛Label➛Value","type":"action","ref":""},{"name":"{{action.labels.label.value}}","label":"action➛Labels➛Label➛Value","type":"action","ref":""},{"name":"{{action.environment_variables}}","label":"action➛Environment Variables","type":"action","ref":""},{"name":"{{action.environmentvariables}}","label":"action➛Environment Variables","type":"action","ref":""},{"name":"{{action.environmentvariables.Environment_Variable}}","label":"action➛Environment Variables➛Environment Variable","type":"action","ref":""},{"name":"{{action.environmentvariables.environmentVariable}}","label":"action➛Environment Variables➛Environment Variable","type":"action","ref":""},{"name":"{{action.environmentvariables.environmentVariable.Name}}","label":"action➛Environment Variables➛Environment Variable➛Name","type":"action","ref":""},{"name":"{{action.environmentvariables.environmentVariable.name}}","label":"action➛Environment Variables➛Environment Variable➛Name","type":"action","ref":""},{"name":"{{action.environmentvariables.environmentVariable.Value}}","label":"action➛Environment Variables➛Environment Variable➛Value","type":"action","ref":""},{"name":"{{action.environmentvariables.environmentVariable.value}}","label":"action➛Environment Variables➛Environment Variable➛Value","type":"action","ref":""},{"name":"{{action.ingress_settings}}","label":"action➛Ingress Settings","type":"action","ref":""},{"name":"{{action.ingresssettings}}","label":"action➛Ingress Settings","type":"action","ref":""},{"name":"{{action.vpc_connector}}","label":"action➛VPC Connector","type":"action","ref":""},{"name":"{{action.vpcconnector}}","label":"action➛VPC Connector","type":"action","ref":""},{"name":"{{action.vpc_connector_egresssettings}}","label":"action➛VPC Connector EgressSettings","type":"action","ref":""},{"name":"{{action.vpcconnectoregresssettings}}","label":"action➛VPC Connector EgressSettings","type":"action","ref":""},{"name":"{{action.max_instances}}","label":"action➛Max Instances","type":"action","ref":""},{"name":"{{action.maxinstances}}","label":"action➛Max Instances","type":"action","ref":""},{"name":"{{step[ec5dfd87-812e-4af0-8cda-c87f906294b3].variable}}","label":"step➛Pre Processing➛variable","type":"step","ref":""},{"name":"{{step[ec5dfd87-812e-4af0-8cda-c87f906294b3].payload}}","label":"step➛Pre Processing➛Payload","type":"step","ref":""},{"name":"{{step[ec5dfd87-812e-4af0-8cda-c87f906294b3].location}}","label":"step➛Pre Processing➛Location","type":"step","ref":""},{"name":"{{step[61a990e9-fadd-4572-b06a-b3a865d591a8].response_body}}","label":"step➛Patch Function➛Response Body","type":"step","ref":""},{"name":"{{step[61a990e9-fadd-4572-b06a-b3a865d591a8].status_code}}","label":"step➛Patch Function➛Status Code","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].status}}","label":"step➛Post Processing➛Status","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].errormessage}}","label":"step➛Post Processing➛ErrorMessage","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].variable}}","label":"step➛Post Processing➛variable","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function}}","label":"step➛Post Processing➛Function","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1}}","label":"step➛Post Processing➛function","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.function_child1}}","label":"step➛Post Processing➛function➛function_child1","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.Name}}","label":"step➛Post Processing➛function➛Name","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.name}}","label":"step➛Post Processing➛function➛Name","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.function_child2}}","label":"step➛Post Processing➛function➛function_child2","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.Metadata}}","label":"step➛Post Processing➛function➛Metadata","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata}}","label":"step➛Post Processing➛function➛Metadata","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.metadata_child1}}","label":"step➛Post Processing➛function➛Metadata➛Metadata_child1","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.Type}}","label":"step➛Post Processing➛function➛Metadata➛Type","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.type}}","label":"step➛Post Processing➛function➛Metadata➛Type","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.metadata_child2}}","label":"step➛Post Processing➛function➛Metadata➛Metadata_child2","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.Target}}","label":"step➛Post Processing➛function➛Metadata➛Target","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.target}}","label":"step➛Post Processing➛function➛Metadata➛Target","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.metadata_child3}}","label":"step➛Post Processing➛function➛Metadata➛Metadata_child3","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.Request}}","label":"step➛Post Processing➛function➛Metadata➛Request","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request}}","label":"step➛Post Processing➛function➛Metadata➛Request","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child1}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child1","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Type}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Type","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.type}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Type","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child2}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child2","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Name}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Name","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.name}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Name","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child3}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child3","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Source_Archive_URL}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Source Archive URL","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.sourceArchiveUrl}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Source Archive URL","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child4}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child4","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Entry_Point}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Entry Point","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.entryPoint}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Entry Point","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child5}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child5","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Timeout}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Timeout","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.timeout}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Timeout","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child6}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child6","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Available_Memory_MB}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Available Memory MB","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.availableMemoryMb}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Available Memory MB","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child7}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child7","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Service_Account_Email}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Service Account Email","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.serviceAccountEmail}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Service Account Email","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child8}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child8","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Runtime}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Runtime","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.runtime}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Runtime","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child9}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child9","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.VPC_Connector}}","label":"step➛Post Processing➛function➛Metadata➛Request➛VPC Connector","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.vpcConnector}}","label":"step➛Post Processing➛function➛Metadata➛Request➛VPC Connector","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.request_child10}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Request_child10","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.Labels}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Labels","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.label}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Labels","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.labels}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Labels","type":"step","ref":""},{"name":"{{step[fd0ed18c-6bc2-495a-80d4-a3bbffde8507].function1.metadata.request.labels.labels_child1}}","label":"step➛Post Processing➛function➛Metadata➛Request➛Labels➛Labels_child1","type":"step","ref":""}]</label_cache>
-        <latest_snapshot>f9c3e1f51bd1d81015dfdce7cc4bcb1f</latest_snapshot>
+        <latest_snapshot>647cfe791b95d81015dfdce7cc4bcb53</latest_snapshot>
         <master_snapshot>4bc325f51bd1d81015dfdce7cc4bcb5e</master_snapshot>
         <name>Patch Function For Http</name>
         <natlang/>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fee16d751bd1d81015dfdce7cc4bcb5f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Patch Function For Http</sys_name>
         <sys_overrides/>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_fee16d751bd1d81015dfdce7cc4bcb5f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:35</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:55</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -609,10 +609,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:19</sys_created_on>
         <sys_id>27e16d751bd1d81015dfdce7cc4bcbf0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:05:21</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:21:58</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=27e16d751bd1d81015dfdce7cc4bcbf0"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -623,9 +623,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>7fe1ad751bd1d81015dfdce7cc4bcb4e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:05:21</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:21:58</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var payload = {
         "name": inputs.location + "/functions/" + inputs.name,
@@ -645,27 +645,27 @@
     if (inputs.vpcConnectorEgressSettings)
         payload.vpcConnectorEgressSettings = inputs.vpcConnectorEgressSettings;
     if (inputs.maxInstances)
-       payload.maxInstances = inputs.maxInstances;
+        payload.maxInstances = inputs.maxInstances;
     if (inputs.labels.length &gt; 0) {
         var labels = {};
         inputs.labels.forEach(function(label) {
             if (label.key.trim() &amp;&amp; label.value.trim())
-                labels[label.key.trim()] =label.value.trim();
+                labels[label.key.trim()] = label.value.trim();
+            payload['labels'] = labels;
         });
-        payload['labels'] = labels;
     }
     if (inputs.environmentVariables.length &gt; 0) {
         var enVariables = {};
         inputs.environmentVariables.forEach(function(eVariable) {
-            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()){
-               enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
+            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()) {
+                enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
             }
         });
         payload['environmentVariables'] = enVariables;
-    }
+    } 
     outputs.location = inputs.location;
     outputs.payload = JSON.stringify(payload);
-  var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
+    var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
     if (!regExp.test(inputs.location))
         throw new Error("location does not match pattern");
 })(inputs, outputs);</value>
@@ -2192,10 +2192,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>bfe1ad751bd1d81015dfdce7cc4bcb54</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:14</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:33</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bfe1ad751bd1d81015dfdce7cc4bcb54"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2425,9 +2425,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>80f1ad751bd1d81015dfdce7cc4bcb66</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:14</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:33</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
         <value>v1/{{step[ec5dfd87-812e-4af0-8cda-c87f906294b3].location}}/functions/{{action.name}}</value>
     </sys_element_mapping>
@@ -2518,7 +2518,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=Label,child_name=label,child_type=object,child_type_label=Object,child_uiUniqueId=bd2653e8-fb52-4789-8cd0-69eb5c88c1bb,co_type_name=FD21bf1051d4119810376e988c7c1e9808,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=ed823673-dce7-41af-a9e1-fccdd46041d9</attributes>
+        <attributes>child_label=Label,child_name=label,child_type=object,child_type_label=Object,child_uiUniqueId=9b20aca4-1425-41ff-90cf-73e2e1485356,co_type_name=FD21bf1051d4119810376e988c7c1e9808,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=ed823673-dce7-41af-a9e1-fccdd46041d9</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -2576,14 +2576,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:19</sys_created_on>
         <sys_id>13e16d751bd1d81015dfdce7cc4bcbd4</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:20</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3328,7 +3328,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=Environment Variable,child_name=environmentVariable,child_type=object,child_type_label=Object,child_uiUniqueId=c50dc2b9-ab51-4628-b81e-0fa0460a3b90,co_type_name=FDe460a4513d1198101d0a87008f6a1f66,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=5fe5de53-a361-4e4d-88c5-fecd0f209663</attributes>
+        <attributes>child_label=Environment Variable,child_name=environmentVariable,child_type=object,child_type_label=Object,child_uiUniqueId=9a4601ed-6310-492f-9f0c-da3fe8aff77a,co_type_name=FDe460a4513d1198101d0a87008f6a1f66,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=5fe5de53-a361-4e4d-88c5-fecd0f209663</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -3386,14 +3386,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:19</sys_created_on>
         <sys_id>9fe16d751bd1d81015dfdce7cc4bcbd9</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:20</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -4430,10 +4430,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:19</sys_created_on>
         <sys_id>27e16d751bd1d81015dfdce7cc4bcbf0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:05:21</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:21:58</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=27e16d751bd1d81015dfdce7cc4bcbf0"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4444,9 +4444,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>7fe1ad751bd1d81015dfdce7cc4bcb4e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:05:21</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:21:58</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var payload = {
         "name": inputs.location + "/functions/" + inputs.name,
@@ -4466,27 +4466,27 @@
     if (inputs.vpcConnectorEgressSettings)
         payload.vpcConnectorEgressSettings = inputs.vpcConnectorEgressSettings;
     if (inputs.maxInstances)
-       payload.maxInstances = inputs.maxInstances;
+        payload.maxInstances = inputs.maxInstances;
     if (inputs.labels.length &gt; 0) {
         var labels = {};
         inputs.labels.forEach(function(label) {
             if (label.key.trim() &amp;&amp; label.value.trim())
-                labels[label.key.trim()] =label.value.trim();
+                labels[label.key.trim()] = label.value.trim();
+            payload['labels'] = labels;
         });
-        payload['labels'] = labels;
     }
     if (inputs.environmentVariables.length &gt; 0) {
         var enVariables = {};
         inputs.environmentVariables.forEach(function(eVariable) {
-            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()){
-               enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
+            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()) {
+                enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
             }
         });
         payload['environmentVariables'] = enVariables;
-    }
+    } 
     outputs.location = inputs.location;
     outputs.payload = JSON.stringify(payload);
-  var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
+    var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
     if (!regExp.test(inputs.location))
         throw new Error("location does not match pattern");
 })(inputs, outputs);</value>
@@ -6013,10 +6013,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>bfe1ad751bd1d81015dfdce7cc4bcb54</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:14</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:33</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bfe1ad751bd1d81015dfdce7cc4bcb54"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -6246,9 +6246,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:05:21</sys_created_on>
         <sys_id>80f1ad751bd1d81015dfdce7cc4bcb66</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:14</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:33</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
         <value>v1/{{step[ec5dfd87-812e-4af0-8cda-c87f906294b3].location}}/functions/{{action.name}}</value>
     </sys_element_mapping>
@@ -7142,17 +7142,17 @@
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Patch Function For Http">fee16d751bd1d81015dfdce7cc4bcb5f</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"6dd3a5f51bd1d81015dfdce7cc4bcbc4","name":"plan"}}</plan>
-        <snapshot>f9c3e1f51bd1d81015dfdce7cc4bcb1f</snapshot>
+        <snapshot>647cfe791b95d81015dfdce7cc4bcb53</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6dd3a5f51bd1d81015dfdce7cc4bcbc4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:39</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:41:00</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -7587,7 +7587,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FD88d365f560d1d8103fc2b743474a2a9a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b</attributes>
+        <attributes>co_type_name=FD167c72b9d495d810d4835afc13daf80a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -7645,14 +7645,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:34</sys_created_on>
         <sys_id>48d365f51bd1d81015dfdce7cc4bcb9c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:34</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -7761,10 +7761,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:31</sys_created_on>
         <sys_id>67c325f51bd1d81015dfdce7cc4bcbd2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:33</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=67c325f51bd1d81015dfdce7cc4bcbd2"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -7789,9 +7789,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:33</sys_created_on>
         <sys_id>c8d365f51bd1d81015dfdce7cc4bcb49</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:33</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var payload = {
         "name": inputs.location + "/functions/" + inputs.name,
@@ -7811,27 +7811,27 @@
     if (inputs.vpcConnectorEgressSettings)
         payload.vpcConnectorEgressSettings = inputs.vpcConnectorEgressSettings;
     if (inputs.maxInstances)
-       payload.maxInstances = inputs.maxInstances;
+        payload.maxInstances = inputs.maxInstances;
     if (inputs.labels.length &gt; 0) {
         var labels = {};
         inputs.labels.forEach(function(label) {
             if (label.key.trim() &amp;&amp; label.value.trim())
-                labels[label.key.trim()] =label.value.trim();
+                labels[label.key.trim()] = label.value.trim();
+            payload['labels'] = labels;
         });
-        payload['labels'] = labels;
     }
     if (inputs.environmentVariables.length &gt; 0) {
         var enVariables = {};
         inputs.environmentVariables.forEach(function(eVariable) {
-            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()){
-               enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
+            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()) {
+                enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
             }
         });
         payload['environmentVariables'] = enVariables;
-    }
+    } 
     outputs.location = inputs.location;
     outputs.payload = JSON.stringify(payload);
-  var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
+    var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
     if (!regExp.test(inputs.location))
         throw new Error("location does not match pattern");
 })(inputs, outputs);</value>
@@ -10480,7 +10480,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=Label,child_name=label,child_type=object,child_type_label=Object,child_uiUniqueId=bd2653e8-fb52-4789-8cd0-69eb5c88c1bb,co_type_name=FD47c325f5b0d1d810ab478b1168a9c85f,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=ed823673-dce7-41af-a9e1-fccdd46041d9</attributes>
+        <attributes>child_label=Label,child_name=label,child_type=object,child_type_label=Object,child_uiUniqueId=9b20aca4-1425-41ff-90cf-73e2e1485356,co_type_name=FDb17c32b92095d81018c47c3a85207d8f,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=ed823673-dce7-41af-a9e1-fccdd46041d9</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -10538,14 +10538,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:31</sys_created_on>
         <sys_id>abc325f51bd1d81015dfdce7cc4bcbc2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:31</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -10723,7 +10723,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=Environment Variable,child_name=environmentVariable,child_type=object,child_type_label=Object,child_uiUniqueId=c50dc2b9-ab51-4628-b81e-0fa0460a3b90,co_type_name=FD4fc325f5aed1d81066efd8da2fcded60,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=5fe5de53-a361-4e4d-88c5-fecd0f209663</attributes>
+        <attributes>child_label=Environment Variable,child_name=environmentVariable,child_type=object,child_type_label=Object,child_uiUniqueId=9a4601ed-6310-492f-9f0c-da3fe8aff77a,co_type_name=FDbd7c32b98e95d8102de21939461bc590,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=5fe5de53-a361-4e4d-88c5-fecd0f209663</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -10781,14 +10781,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:31</sys_created_on>
         <sys_id>e7c325f51bd1d81015dfdce7cc4bcbc8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:31</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -10888,7 +10888,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FD5cd365f5ffd1d810eca073f28982ceb5,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,sourceId=fd0ed18c-6bc2-495a-80d4-a3bbffde8507,sourceType=step,sourceUiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b,uiType=object,uiTypeLabel=Object,uiUniqueId=955085eb-dc27-4af3-bc4b-b77f1f87f641</attributes>
+        <attributes>co_type_name=FDde7c72b94f95d8101a01176dad046a1a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,sourceId=fd0ed18c-6bc2-495a-80d4-a3bbffde8507,sourceType=step,sourceUiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b,uiType=object,uiTypeLabel=Object,uiUniqueId=955085eb-dc27-4af3-bc4b-b77f1f87f641</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -10948,14 +10948,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:34</sys_created_on>
         <sys_id>5cd365f51bd1d81015dfdce7cc4bcbb7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:34</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -11408,7 +11408,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FD88d365f560d1d8103fc2b743474a2a9a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b</attributes>
+        <attributes>co_type_name=FD167c72b9d495d810d4835afc13daf80a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=ac15b8d3-6b0b-40f5-8ff7-405c69ebdc1b</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -11466,14 +11466,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:34</sys_created_on>
         <sys_id>48d365f51bd1d81015dfdce7cc4bcb9c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:34</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -11582,10 +11582,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:31</sys_created_on>
         <sys_id>67c325f51bd1d81015dfdce7cc4bcbd2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:33</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=67c325f51bd1d81015dfdce7cc4bcbd2"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -11610,9 +11610,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-10 04:13:33</sys_created_on>
         <sys_id>c8d365f51bd1d81015dfdce7cc4bcb49</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 04:13:33</sys_updated_on>
+        <sys_updated_on>2020-06-10 10:40:54</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var payload = {
         "name": inputs.location + "/functions/" + inputs.name,
@@ -11632,27 +11632,27 @@
     if (inputs.vpcConnectorEgressSettings)
         payload.vpcConnectorEgressSettings = inputs.vpcConnectorEgressSettings;
     if (inputs.maxInstances)
-       payload.maxInstances = inputs.maxInstances;
+        payload.maxInstances = inputs.maxInstances;
     if (inputs.labels.length &gt; 0) {
         var labels = {};
         inputs.labels.forEach(function(label) {
             if (label.key.trim() &amp;&amp; label.value.trim())
-                labels[label.key.trim()] =label.value.trim();
+                labels[label.key.trim()] = label.value.trim();
+            payload['labels'] = labels;
         });
-        payload['labels'] = labels;
     }
     if (inputs.environmentVariables.length &gt; 0) {
         var enVariables = {};
         inputs.environmentVariables.forEach(function(eVariable) {
-            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()){
-               enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
+            if (eVariable.name.trim() &amp;&amp; eVariable.value.trim()) {
+                enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
             }
         });
         payload['environmentVariables'] = enVariables;
-    }
+    } 
     outputs.location = inputs.location;
     outputs.payload = JSON.stringify(payload);
-  var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
+    var regExp = /^projects\/[^/]+\/locations\/[^/]+$/
     if (!regExp.test(inputs.location))
         throw new Error("location does not match pattern");
 })(inputs, outputs);</value>

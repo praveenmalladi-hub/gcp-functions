@@ -33,7 +33,7 @@ GCloudFunctionsErrorHandler.prototype = {
         var errorCode = errorResponse.error.code;
         if (errorCode == 404) {
             if (errorMessage.indexOf("Function") != -1 && errorMessage.indexOf("does not exist") != -1)
-                outputs.errormessage = "Invalid Function.";
+                outputs.errormessage = "Function doesn't exist.";
         } else if (errorCode == 403) {
             if (errorMessage.indexOf('Permission denied or it may not exist') != -1)
             outputs.errormessage = "Location not exist.";
@@ -47,6 +47,8 @@ GCloudFunctionsErrorHandler.prototype = {
 		else if (errorCode == 400) {
             if (errorMessage.indexOf('Invalid function service account') != -1)
             outputs.errormessage = "Invalid service account email.";
+			else if (errorMessage.indexOf('Please set a valid type prefix for the member.') != -1)
+                outputs.errormessage = "Invalid type prefix for the member.";
 		}
         if (!outputs.errormessage)
             outputs.errormessage = errorMessage;
@@ -71,13 +73,13 @@ GCloudFunctionsErrorHandler.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:16:45</sys_created_on>
         <sys_id>23e6fff6db811010a16b5a75dc96191f</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>49</sys_mod_count>
         <sys_name>GCloudFunctionsErrorHandler</sys_name>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name>sys_script_include_23e6fff6db811010a16b5a75dc96191f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-10 06:27:14</sys_updated_on>
+        <sys_updated_on>2020-06-16 17:32:14</sys_updated_on>
     </sys_script_include>
 </record_update>

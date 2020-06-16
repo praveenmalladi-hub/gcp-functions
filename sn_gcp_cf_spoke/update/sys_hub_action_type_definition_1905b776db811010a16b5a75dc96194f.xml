@@ -12,8 +12,8 @@
         <description/>
         <ih_action>true</ih_action>
         <internal_name>get_function</internal_name>
-        <label_cache>[{"name":"{{action.location}}","label":"action➛Location","type":"action","ref":""},{"name":"{{action.function}}","label":"action➛Function","type":"action","ref":""},{"name":"{{action.project_id}}","label":"action➛Name","type":"action","ref":""},{"name":"{{action.name}}","label":"action➛Name","type":"action","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].status_code}}","label":"step➛Get Function➛Status Code","type":"step","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].response_body}}","label":"step➛Get Function➛Response Body","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].errormessage}}","label":"step➛Script step➛ErrorMessage","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].status}}","label":"step➛Script step➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child1}}","label":"step➛Script step➛Function➛Function_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child2}}","label":"step➛Script step➛Function➛Function_child2","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.HTTPS_Trigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.https_trigger_child1}}","label":"step➛Script step➛Function➛HTTPS Trigger➛HTTPS Trigger_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.URL}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.url}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child3}}","label":"step➛Script step➛Function➛Function_child3","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child4}}","label":"step➛Script step➛Function➛Function_child4","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Entry_Point}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.entryPoint}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child5}}","label":"step➛Script step➛Function➛Function_child5","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child6}}","label":"step➛Script step➛Function➛Function_child6","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Available_Memory_MB}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.availableMemoryMb}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child7}}","label":"step➛Script step➛Function➛Function_child7","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Service_Account_Email}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.serviceAccountEmail}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child8}}","label":"step➛Script step➛Function➛Function_child8","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Update_Time}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.updateTime}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child9}}","label":"step➛Script step➛Function➛Function_child9","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Version_ID}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.versionId}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child10}}","label":"step➛Script step➛Function➛Function_child10","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Run_Time}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.runtime}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function}}","label":"step➛Script step➛Function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}","label":"step➛Pre Processing➛function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}","label":"step➛Pre Processing➛location","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}","label":"step➛Pre Processing➛projectid","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].variable}}","label":"step➛Pre Processing➛variable","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}","label":"step➛Pre Processing➛name","type":"step","ref":""}]</label_cache>
-        <latest_snapshot>3c2844d11bdd581015dfdce7cc4bcbb9</latest_snapshot>
+        <label_cache>[{"name":"{{action.location}}","label":"action➛Location","type":"action","ref":""},{"name":"{{action.function}}","label":"action➛Function","type":"action","ref":""},{"name":"{{action.project_id}}","label":"action➛Name","type":"action","ref":""},{"name":"{{action.name}}","label":"action➛Name","type":"action","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].status_code}}","label":"step➛Get Function➛Status Code","type":"step","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].response_body}}","label":"step➛Get Function➛Response Body","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].errormessage}}","label":"step➛Script step➛ErrorMessage","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].status}}","label":"step➛Script step➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child1}}","label":"step➛Script step➛Function➛Function_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child2}}","label":"step➛Script step➛Function➛Function_child2","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.HTTPS_Trigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.https_trigger_child1}}","label":"step➛Script step➛Function➛HTTPS Trigger➛HTTPS Trigger_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.URL}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.url}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child3}}","label":"step➛Script step➛Function➛Function_child3","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child4}}","label":"step➛Script step➛Function➛Function_child4","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Entry_Point}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.entryPoint}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child5}}","label":"step➛Script step➛Function➛Function_child5","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child6}}","label":"step➛Script step➛Function➛Function_child6","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Available_Memory_MB}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.availableMemoryMb}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child7}}","label":"step➛Script step➛Function➛Function_child7","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Service_Account_Email}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.serviceAccountEmail}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child8}}","label":"step➛Script step➛Function➛Function_child8","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Update_Time}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.updateTime}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child9}}","label":"step➛Script step➛Function➛Function_child9","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Version_ID}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.versionId}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child10}}","label":"step➛Script step➛Function➛Function_child10","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Run_Time}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.runtime}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function}}","label":"step➛Script step➛Function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}","label":"step➛Pre Processing➛function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}","label":"step➛Pre Processing➛location","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}","label":"step➛Pre Processing➛projectid","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}","label":"step➛Pre Processing➛name","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>fb9e6efb1b59dc1015dfdce7cc4bcb4b</latest_snapshot>
         <master_snapshot>77382c101bddd41015dfdce7cc4bcb3b</master_snapshot>
         <name>Get Function</name>
         <natlang/>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1905b776db811010a16b5a75dc96194f</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name>Get Function</sys_name>
         <sys_overrides/>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_1905b776db811010a16b5a75dc96194f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-08 08:16:08</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:21</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -108,10 +108,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:14</sys_created_on>
         <sys_id>3505b776db811010a16b5a75dc961973</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:22</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3505b776db811010a16b5a75dc961973"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -122,17 +122,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:16</sys_created_on>
         <sys_id>4e05b776db811010a16b5a75dc9619a9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:22</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var gfs = new GoogleCloudFunctionsUtils();
     gfs.validateInputVariables(inputs, outputs);
-    gfs.validateMandatoryVariables(inputs, ['name']);
-    var regExp = /^projects\/[^/]+\/locations\/[^/]+\/functions\/[^/]+$/
-    if (!regExp.test(inputs.name))
-        throw new Error("name does not match pattern");
-    gfs.maptoOutputFromInput(inputs, outputs, []);
+    gfs.validateMandatoryVariables(inputs, ['projectid', 'location', 'function']);
+    gfs.maptoOutputFromInput(inputs, outputs, ['projectid', 'location', 'function']);
 })(inputs, outputs);</value>
         <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
     </sys_variable_value>
@@ -223,7 +220,7 @@
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
-    <sys_hub_step_ext_input action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT INf5ffc22bdb811010a16b5a75dc9619a3"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN209eeafb1b59dc1015dfdce7cc4bcb36,e49eeafb1b59dc1015dfdce7cc4bcb3a,e49eeafb1b59dc1015dfdce7cc4bcb3e"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -252,7 +249,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>projectid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -284,8 +281,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:08</sys_created_on>
-        <sys_id>f5ffc22bdb811010a16b5a75dc9619a3</sys_id>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>209eeafb1b59dc1015dfdce7cc4bcb36</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -293,7 +290,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:08</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -305,12 +302,11 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN0aff062bdb811010a16b5a75dc961916"/>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=2c2f98cb-310a-43f5-8e1c-f26993250788</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -334,7 +330,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>location</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -342,7 +338,332 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>e49eeafb1b59dc1015dfdce7cc4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>200</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>e49eeafb1b59dc1015dfdce7cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN389eeafb1b59dc1015dfdce7cc4bcb54,709eeafb1b59dc1015dfdce7cc4bcb4f,f09eeafb1b59dc1015dfdce7cc4bcb49"/>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=14298901-bbad-4ecc-9ec7-aa12ae3110e1</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>389eeafb1b59dc1015dfdce7cc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=22958fbc-55e5-4de2-85c7-d1638a29a1c2</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>709eeafb1b59dc1015dfdce7cc4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=a9c19626-704d-40cc-b575-a9933bb8b5d6</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>projectid</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
@@ -366,8 +687,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:09</sys_created_on>
-        <sys_id>0aff062bdb811010a16b5a75dc961916</sys_id>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>f09eeafb1b59dc1015dfdce7cc4bcb49</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -375,7 +696,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:09</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -918,10 +1239,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:16</sys_created_on>
         <sys_id>da05b776db811010a16b5a75dc9619ad</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:11</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=da05b776db811010a16b5a75dc9619ad"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1113,11 +1434,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:17</sys_created_on>
         <sys_id>9a05b776db811010a16b5a75dc9619cb</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:11</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
-        <value>/v1/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}</value>
+        <value>/v1/projects/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}/locations/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}/functions/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}</value>
     </sys_element_mapping>
     <sys_hub_step_ext_output action="delete_multiple" query="model=da05b776db811010a16b5a75dc9619ad^sys_idNOT IN5a05b776db811010a16b5a75dc9619c0"/>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -1201,12 +1522,12 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
-    <sys_hub_action_input action="delete_multiple" query="model=1905b776db811010a16b5a75dc96194f^sys_idNOT IN69ff822bdb811010a16b5a75dc9619fb"/>
+    <sys_hub_action_input action="delete_multiple" query="model=1905b776db811010a16b5a75dc96194f^sys_idNOT IN509eeafb1b59dc1015dfdce7cc4bcb0a,609eeafb1b59dc1015dfdce7cc4bcb10,689eeafb1b59dc1015dfdce7cc4bcb15"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=5261546a-91dc-4351-8ebc-e1ad8b88c328</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=78a6137c-5489-4d85-a81f-a3ba06a27a7f</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -1230,7 +1551,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>project_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -1238,7 +1559,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>Name</label>
+        <label>Project ID</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Get Function">1905b776db811010a16b5a75dc96194f</model>
@@ -1262,8 +1583,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_action_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:07</sys_created_on>
-        <sys_id>69ff822bdb811010a16b5a75dc9619fb</sys_id>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>509eeafb1b59dc1015dfdce7cc4bcb0a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -1271,7 +1592,169 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:07</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=cd4af52e-cfac-4030-80fe-3314f3a60972</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Get Function">1905b776db811010a16b5a75dc96194f</model>
+        <model_id>1905b776db811010a16b5a75dc96194f</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>609eeafb1b59dc1015dfdce7cc4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=1d749de3-014f-41f9-9fe7-d3553f60d319</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Get Function">1905b776db811010a16b5a75dc96194f</model>
+        <model_id>1905b776db811010a16b5a75dc96194f</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>689eeafb1b59dc1015dfdce7cc4bcb15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1550,10 +2033,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:14</sys_created_on>
         <sys_id>3505b776db811010a16b5a75dc961973</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:22</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3505b776db811010a16b5a75dc961973"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1564,17 +2047,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:16</sys_created_on>
         <sys_id>4e05b776db811010a16b5a75dc9619a9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:22</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var gfs = new GoogleCloudFunctionsUtils();
     gfs.validateInputVariables(inputs, outputs);
-    gfs.validateMandatoryVariables(inputs, ['name']);
-    var regExp = /^projects\/[^/]+\/locations\/[^/]+\/functions\/[^/]+$/
-    if (!regExp.test(inputs.name))
-        throw new Error("name does not match pattern");
-    gfs.maptoOutputFromInput(inputs, outputs, []);
+    gfs.validateMandatoryVariables(inputs, ['projectid', 'location', 'function']);
+    gfs.maptoOutputFromInput(inputs, outputs, ['projectid', 'location', 'function']);
 })(inputs, outputs);</value>
         <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
     </sys_variable_value>
@@ -1665,7 +2145,7 @@
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
-    <sys_hub_step_ext_input action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT INf5ffc22bdb811010a16b5a75dc9619a3"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN209eeafb1b59dc1015dfdce7cc4bcb36,e49eeafb1b59dc1015dfdce7cc4bcb3a,e49eeafb1b59dc1015dfdce7cc4bcb3e"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -1694,7 +2174,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>projectid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -1726,8 +2206,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:08</sys_created_on>
-        <sys_id>f5ffc22bdb811010a16b5a75dc9619a3</sys_id>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>209eeafb1b59dc1015dfdce7cc4bcb36</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -1735,7 +2215,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:08</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1747,12 +2227,11 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN0aff062bdb811010a16b5a75dc961916"/>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=2c2f98cb-310a-43f5-8e1c-f26993250788</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -1776,7 +2255,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>location</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -1784,7 +2263,332 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>e49eeafb1b59dc1015dfdce7cc4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>200</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>e49eeafb1b59dc1015dfdce7cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=3505b776db811010a16b5a75dc961973^sys_idNOT IN389eeafb1b59dc1015dfdce7cc4bcb54,709eeafb1b59dc1015dfdce7cc4bcb4f,f09eeafb1b59dc1015dfdce7cc4bcb49"/>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=14298901-bbad-4ecc-9ec7-aa12ae3110e1</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>389eeafb1b59dc1015dfdce7cc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=22958fbc-55e5-4de2-85c7-d1638a29a1c2</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
+        <model_id>3505b776db811010a16b5a75dc961973</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_3505b776db811010a16b5a75dc961973</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>709eeafb1b59dc1015dfdce7cc4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=a9c19626-704d-40cc-b575-a9933bb8b5d6</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>projectid</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">3505b776db811010a16b5a75dc961973</model>
@@ -1808,8 +2612,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:09</sys_created_on>
-        <sys_id>0aff062bdb811010a16b5a75dc961916</sys_id>
+        <sys_created_on>2020-06-16 14:48:02</sys_created_on>
+        <sys_id>f09eeafb1b59dc1015dfdce7cc4bcb49</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -1817,7 +2621,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:09</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2360,10 +3164,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:16</sys_created_on>
         <sys_id>da05b776db811010a16b5a75dc9619ad</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:11</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=da05b776db811010a16b5a75dc9619ad"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2555,11 +3359,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-01 07:06:17</sys_created_on>
         <sys_id>9a05b776db811010a16b5a75dc9619cb</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:11</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:03</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
-        <value>/v1/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}</value>
+        <value>/v1/projects/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}/locations/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}/functions/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}</value>
     </sys_element_mapping>
     <sys_hub_step_ext_output action="delete_multiple" query="model=da05b776db811010a16b5a75dc9619ad^sys_idNOT IN5a05b776db811010a16b5a75dc9619c0"/>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -2643,19 +3447,19 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f^sys_idNOT INe9ffc22bdb811010a16b5a75dc961900"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f^sys_idNOT INa49eeafb1b59dc1015dfdce7cc4bcb14,ac9eeafb1b59dc1015dfdce7cc4bcb0e,ac9eeafb1b59dc1015dfdce7cc4bcb19"/>
     <sys_documentation action="INSERT_OR_UPDATE">
-        <element>name</element>
+        <element>location</element>
         <help/>
         <hint/>
-        <label>Name</label>
+        <label>Location</label>
         <language>en</language>
         <name>var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f</name>
         <plural/>
         <sys_class_name>sys_documentation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-03 07:40:07</sys_created_on>
-        <sys_id>e9ffc22bdb811010a16b5a75dc961900</sys_id>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>a49eeafb1b59dc1015dfdce7cc4bcb14</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
@@ -2663,7 +3467,53 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 07:40:07</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>project_id</element>
+        <help/>
+        <hint/>
+        <label>Project ID</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>ac9eeafb1b59dc1015dfdce7cc4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>function</element>
+        <help/>
+        <hint/>
+        <label>Function</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_1905b776db811010a16b5a75dc96194f</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:01</sys_created_on>
+        <sys_id>ac9eeafb1b59dc1015dfdce7cc4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:01</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2801,17 +3651,17 @@
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Get Function">1905b776db811010a16b5a75dc96194f</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"99486c101bddd41015dfdce7cc4bcb61","name":"plan"}}</plan>
-        <snapshot>3c2844d11bdd581015dfdce7cc4bcbb9</snapshot>
+        <snapshot>fb9e6efb1b59dc1015dfdce7cc4bcb4b</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:31</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>99486c101bddd41015dfdce7cc4bcb61</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-08 08:16:12</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:25</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -2824,7 +3674,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>get_function</internal_name>
-        <label_cache>[{"name":"{{action.location}}","label":"action➛Location","type":"action","ref":""},{"name":"{{action.function}}","label":"action➛Function","type":"action","ref":""},{"name":"{{action.project_id}}","label":"action➛Name","type":"action","ref":""},{"name":"{{action.name}}","label":"action➛Name","type":"action","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].status_code}}","label":"step➛Get Function➛Status Code","type":"step","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].response_body}}","label":"step➛Get Function➛Response Body","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].errormessage}}","label":"step➛Script step➛ErrorMessage","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].status}}","label":"step➛Script step➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child1}}","label":"step➛Script step➛Function➛Function_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child2}}","label":"step➛Script step➛Function➛Function_child2","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.HTTPS_Trigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.https_trigger_child1}}","label":"step➛Script step➛Function➛HTTPS Trigger➛HTTPS Trigger_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.URL}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.url}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child3}}","label":"step➛Script step➛Function➛Function_child3","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child4}}","label":"step➛Script step➛Function➛Function_child4","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Entry_Point}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.entryPoint}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child5}}","label":"step➛Script step➛Function➛Function_child5","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child6}}","label":"step➛Script step➛Function➛Function_child6","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Available_Memory_MB}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.availableMemoryMb}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child7}}","label":"step➛Script step➛Function➛Function_child7","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Service_Account_Email}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.serviceAccountEmail}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child8}}","label":"step➛Script step➛Function➛Function_child8","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Update_Time}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.updateTime}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child9}}","label":"step➛Script step➛Function➛Function_child9","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Version_ID}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.versionId}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child10}}","label":"step➛Script step➛Function➛Function_child10","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Run_Time}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.runtime}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function}}","label":"step➛Script step➛Function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}","label":"step➛Pre Processing➛function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}","label":"step➛Pre Processing➛location","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}","label":"step➛Pre Processing➛projectid","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].variable}}","label":"step➛Pre Processing➛variable","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}","label":"step➛Pre Processing➛name","type":"step","ref":""}]</label_cache>
+        <label_cache>[{"name":"{{action.location}}","label":"action➛Location","type":"action","ref":""},{"name":"{{action.function}}","label":"action➛Function","type":"action","ref":""},{"name":"{{action.project_id}}","label":"action➛Name","type":"action","ref":""},{"name":"{{action.name}}","label":"action➛Name","type":"action","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].status_code}}","label":"step➛Get Function➛Status Code","type":"step","ref":""},{"name":"{{step[60c1c5ec-a58c-4299-b69e-ceceb108c293].response_body}}","label":"step➛Get Function➛Response Body","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].errormessage}}","label":"step➛Script step➛ErrorMessage","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].status}}","label":"step➛Script step➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child1}}","label":"step➛Script step➛Function➛Function_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.name}}","label":"step➛Script step➛Function➛Name","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child2}}","label":"step➛Script step➛Function➛Function_child2","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.HTTPS_Trigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger}}","label":"step➛Script step➛Function➛HTTPS Trigger","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.https_trigger_child1}}","label":"step➛Script step➛Function➛HTTPS Trigger➛HTTPS Trigger_child1","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.URL}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.httpsTrigger.url}}","label":"step➛Script step➛Function➛HTTPS Trigger➛URL","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child3}}","label":"step➛Script step➛Function➛Function_child3","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.status}}","label":"step➛Script step➛Function➛Status","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child4}}","label":"step➛Script step➛Function➛Function_child4","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Entry_Point}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.entryPoint}}","label":"step➛Script step➛Function➛Entry Point","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child5}}","label":"step➛Script step➛Function➛Function_child5","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.timeout}}","label":"step➛Script step➛Function➛Timeout","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child6}}","label":"step➛Script step➛Function➛Function_child6","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Available_Memory_MB}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.availableMemoryMb}}","label":"step➛Script step➛Function➛Available Memory MB","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child7}}","label":"step➛Script step➛Function➛Function_child7","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Service_Account_Email}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.serviceAccountEmail}}","label":"step➛Script step➛Function➛Service Account Email","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child8}}","label":"step➛Script step➛Function➛Function_child8","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Update_Time}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.updateTime}}","label":"step➛Script step➛Function➛Update Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child9}}","label":"step➛Script step➛Function➛Function_child9","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Version_ID}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.versionId}}","label":"step➛Script step➛Function➛Version ID","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.function_child10}}","label":"step➛Script step➛Function➛Function_child10","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.labels}}","label":"step➛Script step➛Function➛Labels","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.Run_Time}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function.runtime}}","label":"step➛Script step➛Function➛Run Time","type":"step","ref":""},{"name":"{{step[4a91af59-71ed-4545-83a2-4fd646d39ac9].function}}","label":"step➛Script step➛Function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}","label":"step➛Pre Processing➛function","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}","label":"step➛Pre Processing➛location","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}","label":"step➛Pre Processing➛projectid","type":"step","ref":""},{"name":"{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}","label":"step➛Pre Processing➛name","type":"step","ref":""}]</label_cache>
         <master>true</master>
         <name>Get Function</name>
         <natlang/>
@@ -2837,7 +3687,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>77382c101bddd41015dfdce7cc4bcb3b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -2845,7 +3695,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -2905,10 +3755,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>4c482c101bddd41015dfdce7cc4bcb57</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4c482c101bddd41015dfdce7cc4bcb57"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -3100,11 +3950,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>88482c101bddd41015dfdce7cc4bcb68</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
-        <value>/v1/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}</value>
+        <value>/v1/projects/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}/locations/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}/functions/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}</value>
     </sys_element_mapping>
     <sys_hub_step_ext_output action="delete_multiple" query="model=4c482c101bddd41015dfdce7cc4bcb57^sys_idNOT INcc482c101bddd41015dfdce7cc4bcb5d"/>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -3464,7 +4314,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FDb52884d181dd5810be0cb7b24f931374,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66</attributes>
+        <attributes>co_type_name=FD41aeaefbaf59dc10033f56e891af209c,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -3522,14 +4372,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:27</sys_created_on>
         <sys_id>0c482c101bddd41015dfdce7cc4bcb7e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-08 08:16:07</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3719,10 +4569,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:25</sys_created_on>
         <sys_id>f7382c101bddd41015dfdce7cc4bcb43</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:38</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f7382c101bddd41015dfdce7cc4bcb43"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -3733,17 +4583,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>73382c101bddd41015dfdce7cc4bcb55</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:38</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var gfs = new GoogleCloudFunctionsUtils();
     gfs.validateInputVariables(inputs, outputs);
-    gfs.validateMandatoryVariables(inputs, ['name']);
-    var regExp = /^projects\/[^/]+\/locations\/[^/]+\/functions\/[^/]+$/
-    if (!regExp.test(inputs.name))
-        throw new Error("name does not match pattern");
-    gfs.maptoOutputFromInput(inputs, outputs, []);
+    gfs.validateMandatoryVariables(inputs, ['projectid', 'location', 'function']);
+    gfs.maptoOutputFromInput(inputs, outputs, ['projectid', 'location', 'function']);
 })(inputs, outputs);</value>
         <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
     </sys_variable_value>
@@ -3775,6 +4622,30 @@
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>function</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>45aeaefb1b59dc1015dfdce7cc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.function}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>location</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>cdaeaefb1b59dc1015dfdce7cc4bcb80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.location}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>name</field>
         <id>f7382c101bddd41015dfdce7cc4bcb43</id>
         <sys_created_by>admin</sys_created_by>
@@ -3785,6 +4656,18 @@
         <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
         <value>{{action.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>projectid</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>81aeaefb1b59dc1015dfdce7cc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.project_id}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>script</field>
@@ -3798,7 +4681,7 @@
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
-    <sys_hub_step_ext_input action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN37382c101bddd41015dfdce7cc4bcb46"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN30aeaefb1b59dc1015dfdce7cc4bcb40,7caeaefb1b59dc1015dfdce7cc4bcb45,b0aeaefb1b59dc1015dfdce7cc4bcb4b"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -3827,7 +4710,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>projectid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -3835,7 +4718,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
@@ -3859,8 +4742,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>37382c101bddd41015dfdce7cc4bcb46</sys_id>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>30aeaefb1b59dc1015dfdce7cc4bcb40</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -3868,7 +4751,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3880,12 +4763,11 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN7b382c101bddd41015dfdce7cc4bcb4c"/>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=2c2f98cb-310a-43f5-8e1c-f26993250788</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -3909,7 +4791,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>location</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -3917,7 +4799,251 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>7caeaefb1b59dc1015dfdce7cc4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>200</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>b0aeaefb1b59dc1015dfdce7cc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN30aeaefb1b59dc1015dfdce7cc4bcb6b,b0aeaefb1b59dc1015dfdce7cc4bcb65,c5aeaefb1b59dc1015dfdce7cc4bcb70"/>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=22958fbc-55e5-4de2-85c7-d1638a29a1c2</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>30aeaefb1b59dc1015dfdce7cc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=a9c19626-704d-40cc-b575-a9933bb8b5d6</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>projectid</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
@@ -3941,8 +5067,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>7b382c101bddd41015dfdce7cc4bcb4c</sys_id>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>b0aeaefb1b59dc1015dfdce7cc4bcb65</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -3950,7 +5076,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3962,12 +5088,11 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
-    <sys_hub_action_input action="delete_multiple" query="model=77382c101bddd41015dfdce7cc4bcb3b^sys_idNOT IN7b382c101bddd41015dfdce7cc4bcb3c"/>
-    <sys_hub_action_input action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=5261546a-91dc-4351-8ebc-e1ad8b88c328</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=14298901-bbad-4ecc-9ec7-aa12ae3110e1</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -3991,7 +5116,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>function</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -3999,7 +5124,89 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>Name</label>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>c5aeaefb1b59dc1015dfdce7cc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_action_input action="delete_multiple" query="model=77382c101bddd41015dfdce7cc4bcb3b^sys_idNOT IN2cae6efb1b59dc1015dfdce7cc4bcbef,2cae6efb1b59dc1015dfdce7cc4bcbf5,e0ae6efb1b59dc1015dfdce7cc4bcbfb"/>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=78a6137c-5489-4d85-a81f-a3ba06a27a7f</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>project_id</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Project ID</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Get Function">77382c101bddd41015dfdce7cc4bcb3b</model>
@@ -4023,8 +5230,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_action_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>7b382c101bddd41015dfdce7cc4bcb3c</sys_id>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>2cae6efb1b59dc1015dfdce7cc4bcbef</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -4032,7 +5239,169 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=cd4af52e-cfac-4030-80fe-3314f3a60972</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Get Function">77382c101bddd41015dfdce7cc4bcb3b</model>
+        <model_id>77382c101bddd41015dfdce7cc4bcb3b</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>2cae6efb1b59dc1015dfdce7cc4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=1d749de3-014f-41f9-9fe7-d3553f60d319</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Get Function">77382c101bddd41015dfdce7cc4bcb3b</model>
+        <model_id>77382c101bddd41015dfdce7cc4bcb3b</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>e0ae6efb1b59dc1015dfdce7cc4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -4049,7 +5418,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FDbd2884d1c8dd5810af6b728861c78184,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,sourceId=4a91af59-71ed-4545-83a2-4fd646d39ac9,sourceType=step,sourceUiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66,uiType=object,uiTypeLabel=Object,uiUniqueId=c4681de8-7daf-412b-a1a1-09efaff9fdd6</attributes>
+        <attributes>co_type_name=FDd9aeaefb1b59dc10ad6686f0f45f9eab,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,sourceId=4a91af59-71ed-4545-83a2-4fd646d39ac9,sourceType=step,sourceUiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66,uiType=object,uiTypeLabel=Object,uiUniqueId=c4681de8-7daf-412b-a1a1-09efaff9fdd6</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -4109,14 +5478,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:27</sys_created_on>
         <sys_id>50482c101bddd41015dfdce7cc4bcba5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-08 08:16:08</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -4311,10 +5680,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>4c482c101bddd41015dfdce7cc4bcb57</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4c482c101bddd41015dfdce7cc4bcb57"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4506,11 +5875,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>88482c101bddd41015dfdce7cc4bcb68</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
-        <value>/v1/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].name}}</value>
+        <value>/v1/projects/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].projectid}}/locations/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].location}}/functions/{{step[e62503b2-bf08-432f-8ba7-d2a780c5ac5a].function}}</value>
     </sys_element_mapping>
     <sys_hub_step_ext_output action="delete_multiple" query="model=4c482c101bddd41015dfdce7cc4bcb57^sys_idNOT INcc482c101bddd41015dfdce7cc4bcb5d"/>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -4870,7 +6239,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>co_type_name=FDb52884d181dd5810be0cb7b24f931374,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66</attributes>
+        <attributes>co_type_name=FD41aeaefbaf59dc10033f56e891af209c,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=5d936c0a-cb46-4379-b6fd-1edb18417f66</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -4928,14 +6297,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:27</sys_created_on>
         <sys_id>0c482c101bddd41015dfdce7cc4bcb7e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-08 08:16:07</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -5125,10 +6494,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:25</sys_created_on>
         <sys_id>f7382c101bddd41015dfdce7cc4bcb43</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:38</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f7382c101bddd41015dfdce7cc4bcb43"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -5139,17 +6508,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-05 08:02:26</sys_created_on>
         <sys_id>73382c101bddd41015dfdce7cc4bcb55</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 11:09:38</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
         <value>(function execute(inputs, outputs) {
     var gfs = new GoogleCloudFunctionsUtils();
     gfs.validateInputVariables(inputs, outputs);
-    gfs.validateMandatoryVariables(inputs, ['name']);
-    var regExp = /^projects\/[^/]+\/locations\/[^/]+\/functions\/[^/]+$/
-    if (!regExp.test(inputs.name))
-        throw new Error("name does not match pattern");
-    gfs.maptoOutputFromInput(inputs, outputs, []);
+    gfs.validateMandatoryVariables(inputs, ['projectid', 'location', 'function']);
+    gfs.maptoOutputFromInput(inputs, outputs, ['projectid', 'location', 'function']);
 })(inputs, outputs);</value>
         <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
     </sys_variable_value>
@@ -5181,6 +6547,30 @@
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>function</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>45aeaefb1b59dc1015dfdce7cc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.function}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>location</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>cdaeaefb1b59dc1015dfdce7cc4bcb80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.location}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>name</field>
         <id>f7382c101bddd41015dfdce7cc4bcb43</id>
         <sys_created_by>admin</sys_created_by>
@@ -5191,6 +6581,18 @@
         <sys_updated_on>2020-06-05 08:02:26</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
         <value>{{action.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>projectid</field>
+        <id>f7382c101bddd41015dfdce7cc4bcb43</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>81aeaefb1b59dc1015dfdce7cc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</table>
+        <value>{{action.project_id}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>script</field>
@@ -5204,7 +6606,7 @@
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
-    <sys_hub_step_ext_input action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN37382c101bddd41015dfdce7cc4bcb46"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN30aeaefb1b59dc1015dfdce7cc4bcb40,7caeaefb1b59dc1015dfdce7cc4bcb45,b0aeaefb1b59dc1015dfdce7cc4bcb4b"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -5233,7 +6635,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>projectid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -5241,7 +6643,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
@@ -5265,8 +6667,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>37382c101bddd41015dfdce7cc4bcb46</sys_id>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>30aeaefb1b59dc1015dfdce7cc4bcb40</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -5274,7 +6676,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -5286,12 +6688,11 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN7b382c101bddd41015dfdce7cc4bcb4c"/>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=2c2f98cb-310a-43f5-8e1c-f26993250788</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -5315,7 +6716,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>location</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -5323,7 +6724,251 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>name</label>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>7caeaefb1b59dc1015dfdce7cc4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>200</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>b0aeaefb1b59dc1015dfdce7cc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=f7382c101bddd41015dfdce7cc4bcb43^sys_idNOT IN30aeaefb1b59dc1015dfdce7cc4bcb6b,b0aeaefb1b59dc1015dfdce7cc4bcb65,c5aeaefb1b59dc1015dfdce7cc4bcb70"/>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=22958fbc-55e5-4de2-85c7-d1638a29a1c2</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>location</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>location</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>30aeaefb1b59dc1015dfdce7cc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=a9c19626-704d-40cc-b575-a9933bb8b5d6</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>projectid</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>projectid</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
@@ -5347,8 +6992,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>7b382c101bddd41015dfdce7cc4bcb4c</sys_id>
+        <sys_created_on>2020-06-16 14:48:19</sys_created_on>
+        <sys_id>b0aeaefb1b59dc1015dfdce7cc4bcb65</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -5356,7 +7001,7 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -5368,19 +7013,100 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b^sys_idNOT INb7382c101bddd41015dfdce7cc4bcb41"/>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>name</element>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=14298901-bbad-4ecc-9ec7-aa12ae3110e1</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>function</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <help/>
         <hint/>
-        <label>Name</label>
+        <internal_type display_value="String">string</internal_type>
+        <label>function</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Pre Processing">f7382c101bddd41015dfdce7cc4bcb43</model>
+        <model_id>f7382c101bddd41015dfdce7cc4bcb43</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_output_f7382c101bddd41015dfdce7cc4bcb43</name>
+        <next_element/>
+        <order>3</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:20</sys_created_on>
+        <sys_id>c5aeaefb1b59dc1015dfdce7cc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:20</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_output>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b^sys_idNOT IN20ae6efb1b59dc1015dfdce7cc4bcbfa,68ae6efb1b59dc1015dfdce7cc4bcbf4,acaeaefb1b59dc1015dfdce7cc4bcb0b"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>location</element>
+        <help/>
+        <hint/>
+        <label>Location</label>
         <language>en</language>
         <name>var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b</name>
         <plural/>
         <sys_class_name>sys_documentation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-05 08:02:25</sys_created_on>
-        <sys_id>b7382c101bddd41015dfdce7cc4bcb41</sys_id>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>20ae6efb1b59dc1015dfdce7cc4bcbfa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
@@ -5388,7 +7114,53 @@
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-05 08:02:25</sys_updated_on>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>project_id</element>
+        <help/>
+        <hint/>
+        <label>Project ID</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>68ae6efb1b59dc1015dfdce7cc4bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>function</element>
+        <help/>
+        <hint/>
+        <label>Function</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_77382c101bddd41015dfdce7cc4bcb3b</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 14:48:18</sys_created_on>
+        <sys_id>acaeaefb1b59dc1015dfdce7cc4bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 14:48:18</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>

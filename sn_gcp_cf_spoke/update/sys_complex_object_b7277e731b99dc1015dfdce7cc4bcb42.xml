@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf3277e732899dc100660f21a3501cd42</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7314e8c2dbc11010a16b5a75dc961900</scope_name>
+        <serialized_content>{"FlowDesigner:FDf3277e732899dc100660f21a3501cd42":{"bindings":[{"$2140_bindings":{"role":"String","role.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Role\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"097e3651-fc7a-45d3-a502-8905d826899a\"}"},"members":["Any"],"members.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Members\",\"mandatory\":\"false\",\"child_name\":\"Members_child0\",\"uiUniqueId\":\"6419b54b-0985-47a8-aa88-985c38defbc9\",\"uiTypeLabel\":\"Any\",\"child_type_label\":\"String\",\"child_label\":\"Members_child0\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"2\",\"max_length\":\"0\",\"child_uiUniqueId\":\"00f73ad3-23d6-4783-bff3-248e9b141f30\"}"}}}],"bindings.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Bindings\",\"mandatory\":\"false\",\"child_name\":\"binding\",\"uiUniqueId\":\"1ca56268-9471-4c02-b903-e4dc99f1042f\",\"uiTypeLabel\":\"$3399:bindings\",\"child_label\":\"Binding\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"0\",\"child_uiUniqueId\":\"6cb40db8-ad82-489c-8bb0-c17489caffbb\"}"},"etag":"String","etag.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"E Tag\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"192ede78-1e03-459a-8f8b-90f28938d17b\"}"},"version":"String","version.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Version\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"a2c8da26-0c42-435f-b07e-bb5e94c044e0\"}"}},"FlowDesigner:FDf3277e732899dc100660f21a3501cd42.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"4a91af59-71ed-4545-83a2-4fd646d39ac9\",\"default_value\":\"\",\"label\":\"Policy\",\"mandatory\":\"false\",\"uiUniqueId\":\"8fd93d6f-3964-403c-a71f-fb207f1ea00a\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf3277e732899dc100660f21a3501cd42\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"9f87de12-da06-45ba-b82a-08d8f139599f\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 15:25:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b7277e731b99dc1015dfdce7cc4bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf3277e732899dc100660f21a3501cd42</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_complex_object_b7277e731b99dc1015dfdce7cc4bcb42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 15:25:40</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
