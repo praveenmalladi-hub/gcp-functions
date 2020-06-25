@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>create_function_for_event</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Create Function For Event</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 09:31:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7079185d1bdd581015dfdce7cc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Function For Event</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_hub_flow_7079185d1bdd581015dfdce7cc4bcbae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 09:31:42</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=7079185d1bdd581015dfdce7cc4bcbae"/>
+    <sys_variable_value action="DELETE" query="document_key=7079185d1bdd581015dfdce7cc4bcbae"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=7079185d1bdd581015dfdce7cc4bcbae^sys_idNOT INf079d85d1bdd581015dfdce7cc4bcbf1"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>7079185d1bdd581015dfdce7cc4bcbae</id>
+        <name>Create Function For Event</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 09:31:42</sys_created_on>
+        <sys_id>f079d85d1bdd581015dfdce7cc4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 09:31:42</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</application>
+        <file_path/>
+        <instance_id>c3885340dbd548903050ac44d49619c4</instance_id>
+        <instance_name>empmrakesh</instance_name>
+        <name>sys_hub_flow_7079185d1bdd581015dfdce7cc4bcbae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>create_function_for_event</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Create Function For Event</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 09:31:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7079185d1bdd581015dfdce7cc4bcbae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create Function For Event</sys_name><sys_overrides/><sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package><sys_policy/><sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope><sys_update_name>sys_hub_flow_7079185d1bdd581015dfdce7cc4bcbae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-08 09:31:42</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=7079185d1bdd581015dfdce7cc4bcbae"/><sys_variable_value action="delete_multiple" query="document_key=7079185d1bdd581015dfdce7cc4bcbae"/><sys_flow_cat_variable_model action="delete_multiple" query="id=7079185d1bdd581015dfdce7cc4bcbae^sys_idNOT INf079d85d1bdd581015dfdce7cc4bcbf1"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>7079185d1bdd581015dfdce7cc4bcbae</id><name>Create Function For Event</name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 09:31:42</sys_created_on><sys_id>f079d85d1bdd581015dfdce7cc4bcbf1</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-08 09:31:42</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>1594519253</payload_hash>
+        <record_name>Create Function For Event</record_name>
+        <reverted_from/>
+        <source>b9008f331bc1d41015dfdce7cc4bcb48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 09:31:42</sys_created_on>
+        <sys_id>c579d85d1bdd581015dfdce7cc4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1729345771f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 09:31:42</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>0179d85dfbdd581072c201ef9e971ef5</update_guid>
+        <update_guid_history>0179d85dfbdd581072c201ef9e971ef5:1594519253</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 04:46:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>61773646f16541eb8df7b2a538141411</sys_id>
+        <sys_metadata>7079185d1bdd581015dfdce7cc4bcbae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Function For Event</sys_name>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_scope_delete display_value="">4425685b2de54a209ca058841839b190</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_7079185d1bdd581015dfdce7cc4bcbae</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_7079185d1bdd581015dfdce7cc4bcbae">c579d85d1bdd581015dfdce7cc4bcbf5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 04:46:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

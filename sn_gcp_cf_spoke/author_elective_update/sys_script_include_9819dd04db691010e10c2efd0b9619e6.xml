@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>sn_gcp_cf_spoke.GooglePubsubUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>GooglePubsubUtils</name>
+        <script><![CDATA[var GooglePubsubUtils = Class.create();
+GooglePubsubUtils.prototype = {
+    initialize: function() {},
+
+    validateInputVariables: function(inputs, outputs) {
+        for (var key in inputs) {
+            var value = inputs[key];
+            if (typeof value == 'string')
+                inputs[key] = value.trim();
+            else
+                inputs[key] = value;
+        }
+        return inputs;
+    },
+
+    validateMandatoryVariables: function(obj, keys) {
+        keys.forEach(function(key) {
+            if (!obj[key])
+                throw new Error("Error while executing, mandatory information isn't passed in " + key);
+        });
+    },
+
+    maptoOutputFromInput: function(inputs, outputs, keys) {
+        if (keys.length <= 0)
+            for (var key in inputs) {
+                outputs[key] = inputs[key];
+            } else {
+                keys.forEach(function(key) {
+                    outputs[key] = inputs[key];
+                });
+            }
+        return outputs;
+    },
+
+    type: 'GooglePubsubUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 03:13:30</sys_created_on>
+        <sys_id>9819dd04db691010e10c2efd0b9619e6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GooglePubsubUtils</sys_name>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_update_name>sys_script_include_9819dd04db691010e10c2efd0b9619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 03:13:41</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</application>
+        <file_path/>
+        <instance_id>c3885340dbd548903050ac44d49619c4</instance_id>
+        <instance_name>empmrakesh</instance_name>
+        <name>sys_script_include_9819dd04db691010e10c2efd0b9619e6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;sn_gcp_cf_spoke.GooglePubsubUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;GooglePubsubUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var GooglePubsubUtils = Class.create();
+GooglePubsubUtils.prototype = {
+    initialize: function() {},
+
+    validateInputVariables: function(inputs, outputs) {
+        for (var key in inputs) {
+            var value = inputs[key];
+            if (typeof value == 'string')
+                inputs[key] = value.trim();
+            else
+                inputs[key] = value;
+        }
+        return inputs;
+    },
+
+    validateMandatoryVariables: function(obj, keys) {
+        keys.forEach(function(key) {
+            if (!obj[key])
+                throw new Error("Error while executing, mandatory information isn't passed in " + key);
+        });
+    },
+
+    maptoOutputFromInput: function(inputs, outputs, keys) {
+        if (keys.length &lt;= 0)
+            for (var key in inputs) {
+                outputs[key] = inputs[key];
+            } else {
+                keys.forEach(function(key) {
+                    outputs[key] = inputs[key];
+                });
+            }
+        return outputs;
+    },
+
+    type: 'GooglePubsubUtils'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-06-17 03:13:30&lt;/sys_created_on&gt;&lt;sys_id&gt;9819dd04db691010e10c2efd0b9619e6&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;GooglePubsubUtils&lt;/sys_name&gt;&lt;sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke"&gt;7314e8c2dbc11010a16b5a75dc961900&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Google Cloud Functions Spoke"&gt;7314e8c2dbc11010a16b5a75dc961900&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_9819dd04db691010e10c2efd0b9619e6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-06-17 03:13:41&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1400644291</payload_hash>
+        <record_name>GooglePubsubUtils</record_name>
+        <reverted_from/>
+        <source>b9008f331bc1d41015dfdce7cc4bcb48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 03:13:41</sys_created_on>
+        <sys_id>5b399144db691010e10c2efd0b9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c0449bc10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 03:13:41</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>533991440769101072817ca941039fad</update_guid>
+        <update_guid_history>533991440769101072817ca941039fad:-1400644291,64391144c86910107bb4d9278ded93c8:-1409258196</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 03:22:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>01c0bfe687fe423a8003250ca7af52b9</sys_id>
+        <sys_metadata>9819dd04db691010e10c2efd0b9619e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GooglePubsubUtils</sys_name>
+        <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+        <sys_scope_delete display_value="">4425685b2de54a209ca058841839b190</sys_scope_delete>
+        <sys_update_name>sys_script_include_9819dd04db691010e10c2efd0b9619e6</sys_update_name>
+        <sys_update_version display_value="sys_script_include_9819dd04db691010e10c2efd0b9619e6">5b399144db691010e10c2efd0b9619ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 03:22:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

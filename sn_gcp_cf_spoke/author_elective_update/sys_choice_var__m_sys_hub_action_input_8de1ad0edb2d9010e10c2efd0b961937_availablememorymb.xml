@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="availablememorymb" table="var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- None --</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-25 08:03:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>963823eadbedd010e10c2efd0b961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>128MiB</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-23 08:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5e1ad0edb2d9010e10c2efd0b961956</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value>128</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>256MiB</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-23 08:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59e1ad0edb2d9010e10c2efd0b961963</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value>256</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>512MiB</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-23 08:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15e1ad0edb2d9010e10c2efd0b961964</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value>512</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1GiB</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-23 08:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dde1ad0edb2d9010e10c2efd0b961964</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>availablememorymb</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2GiB</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-23 08:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99e1ad0edb2d9010e10c2efd0b961965</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>availablememorymb</element>
+            <name>var__m_sys_hub_action_input_8de1ad0edb2d9010e10c2efd0b961937</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-25 08:03:12</sys_created_on>
+            <sys_id>de3823eadbedd010e10c2efd0b961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 08:03:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

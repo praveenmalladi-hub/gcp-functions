@@ -39,48 +39,90 @@ GoogleCloudFunctionsUtils.prototype = {
             }
         return outputs;
     },
-
-	setIAMPolicy: function(inputs, outputs) {
-    var policy = {
-        'policy': {
-            "bindings": []
-        }
-    };
-    inputs["policy"]["bindings"].forEach(function(binding) {
-        var bindingObject = {
-            "role": '',
-            "members": []
+    createFunctionHttp: function(inputs, outputs) {
+        var payload = {
+            "name": "projects/" + inputs.projectid + "/locations/" + inputs.location + "/functions/" + inputs.name,
+            "sourceArchiveUrl": "gs://" + inputs.sourceArchiveUrl,
+            "httpsTrigger": {},
+            "entryPoint": inputs.entryPoint,
+            "timeout": inputs.timeout + "s",
+            "availableMemoryMb": inputs.availableMemoryMb,
+            "serviceAccountEmail": inputs.serviceAccountEmail,
+            "runtime": inputs.runtime,
+            "ingressSettings": "ALLOW_ALL"
         };
-        if (binding['role'].trim())
-            bindingObject['role'] = binding['role'].trim();
-        if (binding["members"].length > 0) {
-            binding["members"].forEach(function(member) {
-                if (member.trim())
-                    bindingObject['members'].push(member.trim());
+        if (inputs.ingressSettings)
+            payload.ingressSettings = inputs.ingressSettings;
+        if (inputs.vpcConnector)
+            payload.vpcConnector = inputs.vpcConnector;
+        if (inputs.vpcConnectorEgressSettings)
+            payload.vpcConnectorEgressSettings = inputs.vpcConnectorEgressSettings;
+        if (inputs.maxInstances)
+            payload.maxInstances = inputs.maxInstances;
+        if (inputs.labels.length > 0) {
+            var labels = {};
+            inputs.labels.forEach(function(label) {
+                if (label.key.trim() && label.value.trim())
+                    labels[label.key.trim()] = label.value.trim();
+                payload['labels'] = labels;
             });
         }
-        if (bindingObject['role'] && bindingObject['members'].length > 0)
-            policy["policy"]["bindings"].push(bindingObject);
-    });
-    if (policy["policy"]["bindings"].length < 1)
-        throw new Error('Role and memebers should not be an empty.');
-    outputs.policy = JSON.stringify(policy);
-    return outputs.policy;
-},
-	
+        if (inputs.environmentVariables.length > 0) {
+            var enVariables = {};
+            inputs.environmentVariables.forEach(function(eVariable) {
+                if (eVariable.name.trim() && eVariable.value.trim()) {
+                    enVariables[eVariable.name.trim().toString()] = eVariable.value.trim().toString();
+                }
+            });
+            payload['environmentVariables'] = enVariables;
+        }
+        outputs.projectid = inputs.projectid;
+        outputs.location = inputs.location;
+        outputs.payload = JSON.stringify(payload);
+        return outputs.payload;
+    },
+
+    setIAMPolicy: function(inputs, outputs) {
+        var policy = {
+            'policy': {
+                "bindings": []
+            }
+        };
+        inputs["policy"]["bindings"].forEach(function(binding) {
+            var bindingObject = {
+                "role": '',
+                "members": []
+            };
+            if (binding['role'].trim())
+                bindingObject['role'] = binding['role'].trim();
+            if (binding["members"].length > 0) {
+                binding["members"].forEach(function(member) {
+                    if (member.trim())
+                        bindingObject['members'].push(member.trim());
+                });
+            }
+            if (bindingObject['role'] && bindingObject['members'].length > 0)
+                policy["policy"]["bindings"].push(bindingObject);
+        });
+        if (policy["policy"]["bindings"].length < 1)
+            throw new Error('Role and memebers should not be an empty.');
+        outputs.policy = JSON.stringify(policy);
+        return outputs.policy;
+    },
+
     type: 'GoogleCloudFunctionsUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-29 08:17:32</sys_created_on>
         <sys_id>e648ec86dbc11010a16b5a75dc9619ec</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>GoogleCloudFunctionsUtils</sys_name>
         <sys_package display_value="Google Cloud Functions Spoke" source="sn_gcp_cf_spoke">7314e8c2dbc11010a16b5a75dc961900</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Functions Spoke">7314e8c2dbc11010a16b5a75dc961900</sys_scope>
         <sys_update_name>sys_script_include_e648ec86dbc11010a16b5a75dc9619ec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-04 11:02:15</sys_updated_on>
+        <sys_updated_on>2020-06-23 08:31:11</sys_updated_on>
     </sys_script_include>
 </record_update>
