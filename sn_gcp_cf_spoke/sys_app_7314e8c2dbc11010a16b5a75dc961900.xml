@@ -8,7 +8,7 @@
         <licensable>true</licensable>
         <license_category>none</license_category>
         <license_model>none</license_model>
-        <logo/>
+        <logo>e4dd3f3fdba59410e10c2efd0b9619b0</logo>
         <menu/>
         <name>Google Cloud Functions Spoke</name>
         <private>false</private>
@@ -25,9 +25,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-29 07:58:03</sys_created_on>
         <sys_id>7314e8c2dbc11010a16b5a75dc961900</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-29 07:58:03</sys_updated_on>
+        <sys_updated_on>2020-06-29 06:49:59</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
@@ -35,4 +35,43 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>logo</file_name>
+        <hash>427947da8bd96ffa9acff341bcfabc4bd9499dbce935fe664f000d9307b65e5c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1156</size_bytes>
+        <size_compressed>564</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-29 06:49:59</sys_created_on>
+        <sys_id>e4dd3f3fdba59410e10c2efd0b9619b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-06-29 06:50:00</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>7314e8c2dbc11010a16b5a75dc961900</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="e4dd3f3fdba59410e10c2efd0b9619b0">e4dd3f3fdba59410e10c2efd0b9619b0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-29 06:49:59</sys_created_on>
+        <sys_id>28dd3f3fdba59410e10c2efd0b9619b0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>nVRLa9tAEL7nVwzb62q874drBdpCycG99tBLEbZsCzaSsZU4/ved9SqtYyikldAwO/rm8X0atDg+b6Fb12zZnNvDT8lg3YxN1TeP7RQDir08pv5Ys9047uez2el0wpPG4bCdKSHEjEowOHXrcVczqQKDXdttd+N0eO7a0+fhpWYCBFAkP+z+DmAxdmNq77+k4WkNX5/61dgN/XExK+EM2DfjDmi2b1I5NJ7bgFKlig66Mha9+SQlWseLFZc7CtSSO7QP2qNv8ivLi70AqojBcYshLCmoqWbGmMCLFdOdTyblTty4jPCeFzu1yVUciviQG14Amhf7G+ArArj0dtwb2DWzHwyO4zmR8JsupTl8MCrYjWGzt2JEQ1W5iajCxNbqhEFxpdHGSqOx3FaqUjuJwXz3xESmKmDQxdA4lmuUHmVAL5dWcGO4pnoqV82+x8idQJs0Tc2VQGVIMqPIaFkp1IoKeLf0NDzxUaTkO3SQGFWlian+w3TYN6tuPM9BoPCiXCoGofTH7jikJu/EHIrbvioxpPN26GE/dP1Ia2kM8YYQaQmACIQAwaDyYKihBZpRm8m3Et0rxhADDSWXhjIGMiyi0NnxAaOHq8q332az2UzjrLrDKrWwohW3Cj2t/OpcM2cYHGpGTey7UjP+f/K8pe/2D6m34gWN2k0CEGnhJ2GCm9Qip0hY3hZpS1aRPOqLzBfBil9UvKr8l3EW+ddxf/cLwkjYtYQEAAA=</data>
+        <length>740</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="e4dd3f3fdba59410e10c2efd0b9619b0">e4dd3f3fdba59410e10c2efd0b9619b0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-29 06:49:59</sys_created_on>
+        <sys_id>a8dd3f3fdba59410e10c2efd0b9619b0</sys_id>
+    </sys_attachment_doc>
 </record_update>

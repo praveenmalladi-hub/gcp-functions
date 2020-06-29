@@ -19,6 +19,139 @@
             <sys_updated_on>2020-06-24 06:43:22</sys_updated_on>
             <value/>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>connector2</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a07bb7bbdba59410e10c2efd0b96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>connector2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>connector46</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c7bb7bbdba59410e10c2efd0b96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>connector46</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>connectorget</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>287bb7bbdba59410e10c2efd0b96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>connectorget</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>democonnector</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e07bb7bbdba59410e10c2efd0b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>democonnector</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>firstconnector</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac7bb7bbdba59410e10c2efd0b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>firstconnector</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>servicenowconnector</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>687bb7bbdba59410e10c2efd0b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>servicenowconnector</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vpcconnector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>testing</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-29 06:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>247bb7bbdba59410e10c2efd0b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-29 06:39:36</sys_updated_on>
+            <value>testing</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>vpcconnector</element>
             <name>var__m_sys_hub_action_input_fcf9a4d51b11981015dfdce7cc4bcb0d</name>
